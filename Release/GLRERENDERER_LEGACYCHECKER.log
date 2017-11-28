@@ -1,0 +1,20 @@
+﻿  Source.cpp
+Source.cpp(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Source.cpp(231): warning C4101: 'lighttemp' :참조되지 않은 지역 변수입니다.
+Source.cpp(297): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Source.cpp(594): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Source.cpp(595): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Source.cpp(600): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Source.cpp(601): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Source.cpp(602): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Source.cpp(605): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Source.cpp(606): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Source.cpp(607): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+Source.cpp(679): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  0 of 429 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  GLRERENDERER_LEGACYCHECKER.vcxproj -> C:\Users\BenKim\Documents\Visual Studio 2015\Projects\Release\GLRERENDERER_LEGACYCHECKER.exe
+  GLRERENDERER_LEGACYCHECKER.vcxproj -> C:\Users\BenKim\Documents\Visual Studio 2015\Projects\Release\GLRERENDERER_LEGACYCHECKER.pdb (Full PDB)

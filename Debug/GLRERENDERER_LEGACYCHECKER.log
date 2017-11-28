@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(95): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(232): warning C4101: 'lighttemp' :참조되지 않은 지역 변수입니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(298): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(595): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(596): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(601): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(602): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(603): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(606): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(607): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(608): warning C4838: 'double'에서 'const GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\benkim\documents\visual studio 2015\projects\glrerenderer_legacychecker\source.cpp(680): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GLRERENDERER_LEGACYCHECKER.vcxproj -> C:\Users\BenKim\Documents\Visual Studio 2015\Projects\Debug\GLRERENDERER_LEGACYCHECKER.exe
+  GLRERENDERER_LEGACYCHECKER.vcxproj -> C:\Users\BenKim\Documents\Visual Studio 2015\Projects\Debug\GLRERENDERER_LEGACYCHECKER.pdb (Full PDB)
