@@ -1,0 +1,2 @@
+# GLRERENDERER_LEGACYCHECKER
+opengl model viewer
